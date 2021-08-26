@@ -1,2 +1,4 @@
-# Portofolio-css
-hacktiv8 day-2 assignment styling with css
+Nama: Difen Yedidya Sjamsu
+kode peserta: FERD-KI-001
+
+continuing the portofolio and style it using css
